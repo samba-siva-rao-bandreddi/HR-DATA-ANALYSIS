@@ -21,3 +21,8 @@ Features
 **Salary vs. Qualification**: Scatter plot analyzing salary trends based on qualification levels.
 
 **Employee Growth**: Line graph tracking workforce growth over the years.
+
+# Interactive HR Dashboard | Power BI Demo
+
+https://github.com/user-attachments/assets/96212f5e-efd7-4154-994a-061c27fb2b67
+
